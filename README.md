@@ -7,7 +7,7 @@ This project is a static clone of the Spotify user interface, developed as part 
 
 ![Screenshot](./ss.png)
 
-The website is hosted at: [Spotify Clone](https://clone-spotify008.netlify.app/)
+The website is hosted at: [Spotify Clone](https://open-clone-spotify.netlify.app/)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ The website is hosted at: [Spotify Clone](https://clone-spotify008.netlify.app/)
 - **styles.css**: The CSS file containing the styles for the page.
 
 ## Hosted Website Link
-This project is hosted online. You can visit the website clone by clicking [here](https://clone-spotify008.netlify.app/).
+This project is hosted online. You can visit the website clone by clicking [here](https://open-clone-spotify.netlify.app/).
 
 ## Features
 
