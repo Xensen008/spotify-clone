@@ -65,4 +65,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Acknowledgements
 
-A massive shoutout and heartfelt thanks to @ApnaCollage and Shradha maam for his incredible teachings on this web dev course! 🙌💻 His guidance has been instrumental in reaching this milestone.
+A massive shoutout and heartfelt thanks to @ApnaCollage and Shradha maam for her incredible teachings on this web dev course! 🙌💻 Her guidance has been instrumental in reaching this milestone.
